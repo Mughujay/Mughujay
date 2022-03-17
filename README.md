@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mughujay and i am new in the programation world. Hope a do great!
+- 👋 Hi, I’m @Mughujay and i am new in the programation world. Hope i do great!
 - 👀 I’m interested in ... Improve myself and be able to get a nice job
 - 🌱 I’m currently learning ... how to develop in salesforce platform
 - 💞️ I’m looking to collaborate on ... a better world and happiness
